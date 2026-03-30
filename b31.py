@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from keep_alive import keep_alive
 
 # --- CONFIG ---
-TOKEN = "8387196472:AAHvpTQo-lIpPdTh86ecaAQVw8KVEbBjIYk"
+TOKEN = "
 ADMIN_ID = 7814668011
 PREMIUM_FILE = "premium_users.json"
 ACCOUNTS_FILE = "account.txt"
